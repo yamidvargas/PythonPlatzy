@@ -1,1 +1,3 @@
-print ("hola mundo ")
+nombre = "yamid"
+
+print(nombre)
